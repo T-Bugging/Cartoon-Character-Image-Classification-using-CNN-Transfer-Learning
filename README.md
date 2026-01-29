@@ -1,4 +1,4 @@
-# Cartoon Character Image Classification using CNN & Transfer Learning
+<img width="471" height="356" alt="image" src="https://github.com/user-attachments/assets/51b4142e-2d99-41d0-ba91-14768b048c58" /># Cartoon Character Image Classification using CNN & Transfer Learning
 
 ---
 
@@ -28,9 +28,8 @@ The project demonstrates a complete deep learning workflow:
 - Total Images: 1292
 - Images organized into class-specific folders
 - Labels and image paths indexed using a Pandas DataFrame
-
-  <img width="840" height="332" alt="image" src="https://github.com/user-attachments/assets/d56fe32d-bf35-4c6f-bf8e-7ccfbc67563e" />
-
+  
+  <img width="471" height="356" alt="image" src="https://github.com/user-attachments/assets/ca8fc8c5-8b72-4f5f-8441-8af96dc0683c" />
 
 ### Cartoon Characters (10 Classes)
 1. Mickey Mouse
@@ -43,6 +42,9 @@ The project demonstrates a complete deep learning workflow:
 8. Doraemon
 9. Shinchan
 10. Minions
+
+    <img width="840" height="332" alt="image" src="https://github.com/user-attachments/assets/7aba3a63-c511-4e67-9822-66040e605bba" />
+
 
 Images were not tightly bounded. Instead, samples were selected such that the target character occupied most of the frame, introducing natural background variability and making the task more realistic.
 
