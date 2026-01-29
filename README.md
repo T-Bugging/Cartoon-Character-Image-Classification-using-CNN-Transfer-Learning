@@ -29,6 +29,9 @@ The project demonstrates a complete deep learning workflow:
 - Images organized into class-specific folders
 - Labels and image paths indexed using a Pandas DataFrame
 
+  <img width="840" height="332" alt="image" src="https://github.com/user-attachments/assets/d56fe32d-bf35-4c6f-bf8e-7ccfbc67563e" />
+
+
 ### Cartoon Characters (10 Classes)
 1. Mickey Mouse
 2. Donald Duck
