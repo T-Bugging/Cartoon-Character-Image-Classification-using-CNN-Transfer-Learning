@@ -140,8 +140,8 @@ These results confirm the effectiveness of pretrained feature extraction for sma
 
 ---
 
-## Pretrained Model Download
-The trained MobileNetV2-based classification model & CNN model is available for download here:
+## Dataset & Pretrained Model Download
+The Dataset & trained MobileNetV2-based classification model, CNN model is available for download here:
 
 https://drive.google.com/drive/folders/1OGIKpdx0At9YYiwVpp3-Dm2FsWLVS3KU?usp=sharing
 
