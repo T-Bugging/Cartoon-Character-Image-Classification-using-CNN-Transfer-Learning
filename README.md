@@ -1,4 +1,4 @@
-<img width="471" height="356" alt="image" src="https://github.com/user-attachments/assets/51b4142e-2d99-41d0-ba91-14768b048c58" /># Cartoon Character Image Classification using CNN & Transfer Learning
+# Cartoon Character Image Classification using CNN & Transfer Learning
 
 ---
 
